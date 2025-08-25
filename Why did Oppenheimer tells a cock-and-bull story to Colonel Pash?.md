@@ -1,5 +1,9 @@
+## Question:
 Why did Oppenheimer tells a cock-and-bull story to Colonel Pash?
 
+---
+
+### Answer:
 He was trying to protect his friend, Haakon Chevalier, while simultaneously covering his own ass.
 
 Chevalier had approached him about a potential channel for sharing information with the Soviets. Oppenheimer knew that if he named his friend directly, Chevalier's life and career would be utterly destroyed. At the same time, Oppenheimer's own security clearance was already shaky as fuck because of his wife's, brother's, and ex-fiancée's communist connections. Admitting a close friend was talking espionage would have been catastrophic.
